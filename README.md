@@ -7,7 +7,7 @@ A user authentication system is crucial for securing access to applications and 
 ### Project Structure :
 
 Here's how our project structure will look:
-
+```
 user_authentication/
 ├── app.py
 ├── models.py
@@ -16,6 +16,7 @@ user_authentication/
 └── templates/
     ├── login.html
     └── register.html
+```
 
 ### Step-by-Step Guide 
 
